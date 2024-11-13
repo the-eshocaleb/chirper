@@ -1,2 +1,2 @@
 # chirper
-Social media and web app.
+Social media web app.
